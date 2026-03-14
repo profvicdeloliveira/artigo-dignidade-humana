@@ -1,2 +1,17 @@
-# artigo-dignidade-humana
-Repositório oficial do artigo "A Dignidade da Pessoa Humana: Do Embrião Civilizatório à Positivação Jurídica", que investiga a evolução filosófica da dignidade e a atuação do Delegado de Polícia como primeiro garantidor de direitos.
+# A Dignidade da Pessoa Humana: Do Embrião Civilizatório à Constitucionalização Brasileira
+
+**Autor:** Dr. Vicente de Oliveira
+*Delegado de Polícia Civil de 1ª Classe do Estado de Goiás | Professor e Pesquisador*
+
+## Resumo (Abstract)
+This article investigates the historical and philosophical evolution of human dignity, tracing its trajectory from ancient civilizational embryos—such as the Egyptian Maat and the Mesopotamian Lex Talionis—to its contemporary constitutionalization in Brazil. By navigating through the philosophical frameworks of Heraclitus, St. Augustine, Pico della Mirandola, and Immanuel Kant, the study establishes a solid ontological foundation for the limitation of state power. Furthermore, it incorporates the teleological functionalism of Claus Roxin to demonstrate how the protection of individual autonomy is indispensable for criminal culpability and normative responsiveness. Finally, the research applies this theoretical density to criminal procedure, positioning the Police Chief (Delegado de Polícia) as the first judge of the cause and the inaugural guarantor of fundamental rights in the Democratic Rule of Law, acting as the state Logos amidst the volatility of flagrante delicto.
+
+## Palavras-chave (Keywords)
+Human Dignity; Constitutional Law; Criminal Procedure; Police Chief; Teleological Functionalism; Fundamental Rights.
+
+## Status da Publicação
+* Preprint / Working Paper
+* **DOI:** *(Insira seu DOI aqui após gerá-lo no Zenodo)*
+
+---
+*© 2026 Vicente de Oliveira. Distribuído sob licença Creative Commons Attribution 4.0 International (CC-BY 4.0).*
