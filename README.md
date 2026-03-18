@@ -5,7 +5,7 @@
 
 ## 🖋️ Autoria
 **Vicente de Paulo Silva e Oliveira**
-*Delegado de Polícia Civil (1ª Classe/GO), Acadêmico, Pesquisador e Professor.*
+*Delegado de Polícia Civil, Acadêmico, Pesquisador e Professor.*
 *Especialista em Direito Constitucional, Penal e Processual Penal.*
 
 ---
