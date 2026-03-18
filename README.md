@@ -13,6 +13,28 @@ Human Dignity; Constitutional Law; Criminal Procedure; Police Chief; Teleologica
 * Preprint / Working Paper
 * **DOI:** [10.5281/zenodo.19017497](https://doi.org/10.5281/zenodo.19017497)
 * **Link de Acesso Permanente:** [https://zenodo.org/records/19017497](https://zenodo.org/records/19017497)
+### 🏛️ Status da Publicação
 
+**Tipo:** Preprint / Working Paper (Saneado conforme ABNT NBR 6023:2018)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19017497.svg)](https://doi.org/10.5281/zenodo.19017497)
+
+- **Versão Atual:** [v2.0.0](https://doi.org/10.5281/zenodo.19077972)
+- **Link Permanente:** [https://zenodo.org/records/19017497](https://zenodo.org/records/19017497)
+
+---
+© 2026 Vicente de Paulo Silva e Oliveira. 
+Distribuído sob licença [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/).### 🏛️ Status da Publicação
+
+**Tipo:** Preprint / Working Paper (Saneado conforme ABNT NBR 6023:2018)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19017497.svg)](https://doi.org/10.5281/zenodo.19017497)
+
+- **Versão Atual:** [v2.0.0](https://doi.org/10.5281/zenodo.19077972)
+- **Link Permanente:** [https://zenodo.org/records/19017497](https://zenodo.org/records/19017497)
+
+---
+© 2026 Vicente de Paulo Silva e Oliveira. 
+Distribuído sob licença [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 ---
 *© 2026 Vicente de Paulo Silva e Oliveira. Distribuído sob licença Creative Commons Attribution 4.0 International (CC-BY 4.0).*
