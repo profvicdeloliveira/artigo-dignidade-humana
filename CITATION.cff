@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Se você utilizar este trabalho, por favor cite-o conforme abaixo."
+authors:
+  - family-names: "Silva e Oliveira"
+    given-names: "Vicente de Paulo"
+    orcid: "https://orcid.org/0000-0000-0000-0000" # Insira seu ORCID se possuir
+title: "A Dignidade da Pessoa Humana: Do Embrião Civilizatório à Constitucionalização Brasileira"
+version: 2.0.0
+doi: 10.5281/zenodo.19077972
+date-released: 2026-03-18
+url: "https://github.com/vsilvaoliveira/dignidade-humana" # Verifique se o slug do seu GitHub está correto
+repository-code: "https://github.com/vsilvaoliveira/dignidade-humana"
+abstract: >-
+  Investigação histórico-filosófica da dignidade humana, da antiguidade à 
+  constitucionalização brasileira, posicionando o Delegado de Polícia como 
+  garantidor fundamental no Estado Democrático de Direito.
+keywords:
+  - "Dignidade da Pessoa Humana"
+  - "Direito Constitucional"
+  - "Delegado de Polícia"
+  - "Funcionalismo Teleológico"
+  - "Direitos Humanos"
+license: CC-BY-4.0
