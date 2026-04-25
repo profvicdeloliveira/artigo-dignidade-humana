@@ -1,23 +1,29 @@
 cff-version: 1.2.0
-message: "Se você utilizar este trabalho, por favor cite-o conforme abaixo."
+message: "Se citar este trabalho, use a referência abaixo."
+title: "A Dignidade da Pessoa Humana: Do Embrião Civilizatório Proto-positivo Teocrático Egípcio à Positivação Jurídica Cogente pela Declaração Universal dos Direitos Humanos (1948)"
+version: "3.0.0"
+doi: "10.5281/zenodo.19017497"
+date-released: "2026-04-25"
 authors:
-  - family-names: "Silva e Oliveira"
-    given-names: "Vicente de Paulo"
-    orcid: "https://orcid.org/0000-0000-0000-0000" # Insira seu ORCID se possuir
-title: "A Dignidade da Pessoa Humana: Do Embrião Civilizatório à Constitucionalização Brasileira"
-version: 2.0.0
-doi: 10.5281/zenodo.19077972
-date-released: 2026-03-18
-url: "https://github.com/vsilvaoliveira/dignidade-humana" # Verifique se o slug do seu GitHub está correto
-repository-code: "https://github.com/vsilvaoliveira/dignidade-humana"
-abstract: >-
-  Investigação histórico-filosófica da dignidade humana, da antiguidade à 
-  constitucionalização brasileira, posicionando o Delegado de Polícia como 
-  garantidor fundamental no Estado Democrático de Direito.
+  - family-names: "Oliveira"
+    given-names: "Vicente de Paulo Silva e"
+    orcid: "https://orcid.org/0009-0006-4436-0915"
 keywords:
-  - "Dignidade da Pessoa Humana"
-  - "Direito Constitucional"
-  - "Delegado de Polícia"
-  - "Funcionalismo Teleológico"
-  - "Direitos Humanos"
-license: CC-BY-4.0
+  - Dignidade da Pessoa Humana
+  - Genealogia Filosófica
+  - Kant
+  - Maat
+  - Direito Constitucional
+  - Direitos Humanos
+  - Polícia Judiciária
+abstract: >
+  Esta edição 3.0.0 empreende a mais ampla reconstrução genealógica da dignidade humana, desde o embrião civilizatório proto-positivo teocrático egípcio até sua positivação universal e cogente pela Declaração Universal dos Direitos Humanos (1948). Com densidade filológica, cosmológica, filosófica e dogmática, demonstra-se que a dignidade antecede a norma, limita o Estado e funda toda ordem jurídica legítima. Ao final, aplica-se o modelo ao Estado brasileiro, identificando o Delegado de Polícia como anteparo inaugural da dignidade na persecução penal, em continuidade histórica à função do Vizir do Egito faraônico. 
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Oliveira"
+      given-names: "Vicente de Paulo Silva e"
+      orcid: "https://orcid.org/0009-0006-4436-0915"
+  title: "A Dignidade da Pessoa Humana: Do Embrião Civilizatório Proto-positivo Teocrático Egípcio à Positivação Jurídica Cogente pela Declaração Universal dos Direitos Humanos (1948)"
+  year: 2026
+  doi: "10.5281/zenodo.19017497"
