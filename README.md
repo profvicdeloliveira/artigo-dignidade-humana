@@ -1,51 +1,65 @@
-# A Dignidade da Pessoa Humana: Do Embrião Civilizatório à Constitucionalização Brasileira
+A Dignidade da Pessoa Humana: Do Embrião Civilizatório Proto‑positivo Teocrático Egípcio à Positivação Jurídica Cogente pela Declaração Universal dos Direitos Humanos (1948)Versão 3.0.0 — Edição Ampliada, Filológica, Cosmológica e DogmáticaExórdio"A dignidade não é dádiva do Estado, mas uma epifania civilizatória forjada do Egito à contemporaneidade; o direito não a cria — antes, curva‑se diante dela."A presente versão 3.0.0 constitui não apenas revisão, mas refundação científica da série genealógica dedicada à Dignidade da Pessoa Humana.
+Sua tessitura conceitual integra:
+filologia egípcia (Maat, Isfet, mꜢˁt),
+arqueologia mesopotâmica (Ur-Nammu, Hamurabi),
+metafísica védica e persa (Dharma, Asha),
+teologia hebraica (tzelem Elohim),
+razão helênica (Logos),
+dignitas romana,
+escolástica medieval,
+Renascimento humanista,
+Reforma Protestante,
+autonomia moral kantiana,
+positivação cogente pela Declaração Universal dos Direitos Humanos (1948).
+1. Sobre o AutorVicente de Paulo Silva e Oliveira
+Delegado de Polícia Civil • Pesquisador • Professor • Ensaísta
+Especialista em Direito Constitucional, Penal, Processual Penal, Administrativo, Direitos Humanos e Filosofia Aplicada.2. Narratio — Síntese Estrutural (Abstract Trilingue)Resumo (PT‑BR)Esta edição empreende uma genealogia integral da dignidade humana desde seu embrião civilizatório teocrático proto‑positivo no Egito Antigo (c. 3100 a.C.), passando por Suméria, Babilônia, Vedas, Zoroastrismo e Judaísmo, até alcançar a sistematização greco-romana, a escolástica medieval, o humanismo renascentista, a Reforma Protestante, a inflexão kantiana e a positivação jurídica universal pela Declaração de 1948.A obra demonstra que a dignidade é anterior à norma, superior ao Estado, e fundamento ontológico de todo ordenamento legítimo. Aplica-se, ao final, ao contexto brasileiro, identificando a Polícia Judiciária — e especialmente o Delegado de Polícia — como primeiro anteparo da dignidade humana, função que remonta ao Vizir faraônico como guardião da justiça.Abstract (EN)This expanded edition reconstructs the full genealogy of human dignity from its proto-positive, theocratic origins in Egyptian Maat (c. 3100 BCE), through Sumerian, Babylonian, Vedic, Persian, Hebraic, Hellenic, Roman, Scholastic, Renaissance, Protestant, and Kantian frameworks, culminating in its binding positivization by the Universal Declaration of Human Rights (1948).It demonstrates that human dignity predates normativity and constitutes the foundational criterion of legal legitimacy. The work concludes by situating the Brazilian Civil Police Delegate as the first guarantor of dignity, echoing the ancient role of the Egyptian Vizier.Resumen (ES)Este estudio reconstruye la genealogía de la dignidad humana desde su matriz proto‑positiva teocrática en la Maat egipcia, pasando por Ur‑Nammu, Hamurabi, Vedas, Zaratustra, la Imago Dei hebrea, la filosofía griega, el derecho romano, la escolástica, el Renacimiento, la Reforma y Kant, hasta su positivización vinculante en 1948.Concluye identificando al Delegado de Policía como el primer garante de la dignidad humana en el Estado Democrático de Derecho.Palavras‑chave: Dignidade humana; Genealogia; Kant; Maat; Ur‑Nammu; Direitos Humanos; Polícia Judiciária.
+Keywords: Human dignity; Genealogy; Kant; Human Rights; Criminal Investigation.
+Palabras clave: Dignidad humana; Genealogía; Filosofía; Derechos Humanos.3. Confirmatio — Metadados, Versionamento e Ciência AbertaEste repositório segue rigorosamente o padrão de Ciência Aberta, com versionamento imutável via Zenodo e identificação persistente por Concept DOI.Estado Atual — v3.0.0 (2026)
 
-[![DOI Concept](https://zenodo.org/badge/DOI/10.5281/zenodo.19017497.svg)](https://doi.org/10.5281/zenodo.19017497)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--4436--0915-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0006-4436-0915)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> *"O Logos do Estado não reside na força, mas na salvaguarda da autonomia individual perante a volatilidade do poder estatal."*
 
-## 🖋️ Exórdio de Autoria
-**Vicente de Paulo Silva e Oliveira**
-*Delegado de Polícia Civil • Acadêmico • Pesquisador • Professor*
-*Especialista em Direito Constitucional, Penal, Processual Penal e Administrativo.*
 
----
 
-## 📖 Narratio: A Investigação (Abstract)
 
-### Resumo
-Esta investigação percorre a evolução histórico-filosófica da dignidade humana, rastreando o seu **embrião civilizatório** desde a *Maat* egípcia e o Talião mesopotâmico até a sua apoteose na ordem constitucional brasileira. Sob as luzes de Heráclito, Santo Agostinho e Immanuel Kant, a obra estabelece o fundamento ontológico da limitação estatal. Através do **funcionalismo teleológico de Claus Roxin**, demonstra-se que a proteção da autonomia é o pressuposto inafastável da culpabilidade, posicionando o **Delegado de Polícia** como o magistrado inaugural e o logos protetor dos direitos fundamentais em meio ao flagrante delito.
 
-### Abstract
-This article investigates the historical and philosophical evolution of human dignity, tracing its trajectory from ancient civilizational embryos—such as the Egyptian Maat and the Mesopotamian Lex Talionis—to its contemporary constitutionalization in Brazil. By navigating through the philosophical frameworks of Heraclitus, St. Augustine, Pico della Mirandola, and Immanuel Kant, the study establishes a solid ontological foundation for the limitation of state power. Furthermore, it incorporates the teleological functionalism of Claus Roxin to demonstrate how the protection of individual autonomy is indispensable for criminal culpability and normative responsiveness. Finally, the research applies this theoretical density to criminal procedure, positioning the Police Chief (Delegado de Polícia) as the first judge of the cause and the inaugural guarantor of fundamental rights in the Democratic Rule of Law, acting as the state Logos amidst the volatility of flagrante delicto.
 
-**Palavras-chave (Keywords):** Dignidade Humana; Direito Constitucional; Processo Penal; Delegado de Polícia; Funcionalismo Teleológico; Fundamental Rights.
 
----
 
-## 📊 Confirmatio: Governança de Metadados e Ciência Aberta
 
-O presente repositório segue os padrões de Ciência Aberta (*Open Science*) do CERN/Zenodo, garantindo a imutabilidade bibliométrica e a perenidade do saber.
 
-### ⛓️ Identificadores de Objeto Digital (DOI) e Versão
-A presente publicação encontra-se em seu **estado da arte**, saneada conforme a **ABNT NBR 6023:2018**, com 108 referências validadas e indexadas.
 
-| Atributo Técnico | Registro Digital / Link |
-| :--- | :--- |
-| **Versão de Registro (VoR)** | `v2.0.0` |
-| **DOI da Versão Saneada** | [![DOI v2.0.0](https://img.shields.io/badge/DOI-10.5281/zenodo.19077972-blue)](https://doi.org/10.5281/zenodo.19077972) |
-| **Acesso Permanente (Latest)** | [https://zenodo.org/records/19017497](https://zenodo.org/records/19017497) |
 
-> **Nota técnica:** O *Acesso Permanente* utiliza o **Concept DOI**, que sempre redirecionará o consulente para a versão mais recente e saneada desta obra.
 
----
 
-## ⚖️ Peroratio: Licenciamento e Citação
-Sob o pilar da **fraternidade intelectual** e do progresso humano, este trabalho é distribuído sob a licença **Creative Commons Attribution 4.0 International (CC-BY 4.0)**. 
 
-Para invocar a autoridade desta tese em seus estudos, utilize o arquivo de citação automatizado `CITATION.cff` disponível na raiz deste repositório.
 
----
-*© 2026 Vicente de Paulo Silva e Oliveira. Obra protegida pela higidez bibliográfica e perenidade digital.*
+
+
+
+
+
+
+
+
+
+
+AtributoRegistroVersãov3.0.0 — Edição Genealógica e Dogmática ExpandidaDOI da VersãoSerá gerado no ZenodoConcept DOIhttps://doi.org/10.5281/zenodo.19017497Normas AplicadasABNT NBR 10520:2023; ABNT NBR 6023:2018ReferênciasMais de 170 fontes primárias e secundárias4. Dispositio — Histórico das Versõesv1.0.0 — Publicação OriginalPrimeira formulação genealógica, ainda embrionária, do percurso da dignidade humana.v2.0.0 — Saneamento BibliográficoRevisão total de metadados, referências e normas ABNT.v3.0.0 — Refundação Científica (Presente Edição)
+Ampliação filológica do bloco egípcio (Maat, Isfet, mꜢˁt).
+Integração de Suméria, Vedas, Zoroastrismo e Imago Dei.
+Expansão sistemática da filosofia grega.
+Releitura dogmática do direito romano.
+Síntese escolástica e renascentista aprofundada.
+Reforma Protestante como ruptura antropológica.
+Revolução kantiana como ponto de inflexão axiológico.
+Universalização pela DUDH (1948).
+Inserção dogmática da Polícia Judiciária como primeiro anteparo da dignidade humana.
+5. Peroratio — Licenciamento e CitaçãoEste trabalho é distribuído sob Creative Commons Attribution 4.0 International (CC‑BY 4.0).Citação recomendada:Oliveira, Vicente de Paulo Silva e.
+A Dignidade da Pessoa Humana: Do Embrião Civilizatório Proto‑positivo Teocrático Egípcio à Positivação Jurídica Cogente pela Declaração Universal dos Direitos Humanos.
+Versão 3.0.0, 2026. DOI: 10.5281/zenodo.19017497.6. Epilegómenos — Palavra FinalA dignidade humana atravessou milênios:
+no Egito, foi a pena da Maat;
+na Grécia, o fulgor do Logos;
+em Roma, a persona;
+na modernidade, a autonomia kantiana;
+em 1948, tornou-se norma cogente.No Brasil contemporâneo, encontra seu primeiro anteparo na Polícia Judiciária, quando o Delegado de Polícia, no limiar do flagrante, preserva a humanidade do suspeito, da vítima e da coletividade.Constans et perpetua voluntas jus suum cuique tribuendi.
+Enquanto houver quem a defenda, a dignidade permanecerá.
