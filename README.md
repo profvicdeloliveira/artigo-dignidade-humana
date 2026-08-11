@@ -105,9 +105,17 @@ Revisão total de metadados, referências e normas ABNT.
 
 ---
 
-## 5. Peroratio — Licenciamento e Citação
+## 5. Peroratio 📄 Licenciamento e Citação
 
-Este trabalho é distribuído sob **Creative Commons Attribution 4.0 International (CC‑BY 4.0)**.
+**Copyright © 2026 Vicente de Paulo Silva e Oliveira — All Rights Reserved.**
+
+Este repositório e todos os seus conteúdos (artigo, documentação,
+metadados e materiais auxiliares) estão protegidos pela Lei nº 9.610/98
+e pela Convenção de Berna.
+
+Nenhuma parte pode ser reproduzida sem autorização prévia e por escrito do autor.
+
+Para solicitações de uso acadêmico: profvicdeloliveira@gmail.com
 
 ### Citação recomendada:
 
