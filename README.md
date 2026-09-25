@@ -1,4 +1,14 @@
 # A Dignidade da Pessoa Humana: Do Embrião Civilizatório Proto‑positivo Teocrático Egípcio à Positivação Jurídica Cogente pela Declaração Universal dos Direitos Humanos (1948)
+###Aviso de Atualização de Versão (V4)
+
+Esta publicação representa a versão V4 da linha de pesquisa originária, ancorada no DOI Canônico / Concept DOI:[(https://doi.org/10.5281/zenodo.19017497)].
+
+Status dos Arquivos e Dados Integrais:
+Os textos, análises e documentos integrais desta versão estão depositados sob Embargo / Acesso Restrito para preservação de sigilo e garantia de anterioridade.
+
+Registro de Anterioridade no OSF: https://osf.io/g7tnc
+
+Direitos Autorais Reservados.
 ### Versão 3.0.0 — Edição Ampliada, Filológica, Cosmológica e Dogmática
 
 ---
@@ -104,6 +114,16 @@ Revisão total de metadados, referências e normas ABNT.
 - Inserção dogmática da Polícia Judiciária como **primeiro anteparo da dignidade humana**.
 
 ---
+###Aviso de Atualização de Versão (V4)
+
+Esta publicação representa a versão V4 da linha de pesquisa originária, ancorada no DOI Canônico / Concept DOI:[(https://doi.org/10.5281/zenodo.19017497)].
+
+Status dos Arquivos e Dados Integrais:
+Os textos, análises e documentos integrais desta versão estão depositados sob Embargo / Acesso Restrito para preservação de sigilo e garantia de anterioridade.
+
+Registro de Anterioridade no OSF: https://osf.io/g7tnc
+
+Direitos Autorais Reservados.
 
 ## 5. Peroratio 📄 Licenciamento e Citação
 
