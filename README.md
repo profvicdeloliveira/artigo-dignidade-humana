@@ -1,3 +1,24 @@
+# Aviso de Atualização de Versão (V5.0.0)
+
+Esta publicação representa a versão **V5.0.0** da linha de pesquisa originária, vinculada ao Concept DOI: 10.5281/zenodo.19017496.
+
+Escopo desta Versão (UFCAT - Outubro/2026):
+
+# Título: From Immediate Ontology to Transfactual Deontology: Critical Counter-intuitiveness and the Use of Generative Artificial Intelligence in Qualitative Research.
+
+ Evento: 5ª Mostra Científica de Ensino — UFCAT (20 a 22 de outubro de 2026).
+
+# Status dos Dados Integrais:
+
+O acervo integral de textos, matrizes conceituais e demonstrativos teóricos encontra-se mantido sob Embargo / Acesso Restrito para preservação de sigilo e garantia de anterioridade.
+
+Registro de Anterioridade e Teoria no OSF: [https://osf.io/g7tnc](https://osf.io/g7tnc)
+
+# Resultados de pesquisas com base em teoria aplicada e confirmada.
+
+# TODOS OS DIREITO RESERVADOS.
+
+
 # A Dignidade da Pessoa Humana: Do Embrião Civilizatório Proto‑positivo Teocrático Egípcio à Positivação Jurídica Cogente pela Declaração Universal dos Direitos Humanos (1948)
 ###Aviso de Atualização de Versão (V4)
 
