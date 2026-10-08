@@ -1,3 +1,25 @@
+# Aviso de Atualização de Versão (V6.0.0)
+
+Esta publicação representa a versão V6.0.0 da linha de pesquisa originária, vinculada ao Concept DOI: 10.5281/zenodo.19017496.
+
+Escopo desta Versão (UFCAT / CEPEx - Outubro/2026):
+
+# Título: Dignidade Humana e Bioconstitucionalismo: Internalização de Gênero, Violência contra a Mulher e Psicoeducação no Programa Laço Seguro.
+
+Autoria: Vicente de Paulo Silva e Oliveira e Ariany Gomes.
+
+Evento: 5ª Mostra Científica de Ensino (CEPEx / UFCAT - 20 a 22 de outubro de 2026).
+
+DOI de Registro Específico (OSF): 10.17605/OSF.IO/VCNAJ
+
+# Status dos Dados e Arquivos Integrais:
+
+O acervo integral de textos, matrizes conceituais e demonstrativos teóricos permanece mantido sob Embargo / Acesso Restrito para preservação de sigilo e garantia de anterioridade.
+
+# Registro de Anterioridade Mestre no OSF: [https://osf.io/g7tnc](https://osf.io/g7tnc)
+
+DIREITOS AUTORAIS RESERVADOS.
+
 # Aviso de Atualização de Versão (V5.0.0)
 
 Esta publicação representa a versão **V5.0.0** da linha de pesquisa originária, vinculada ao Concept DOI: 10.5281/zenodo.19017496.
