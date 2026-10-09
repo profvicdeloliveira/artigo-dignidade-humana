@@ -1,3 +1,32 @@
+# Caderno de Custódia Científica — Linha de Pesquisa em Bioconstitucionalismo e Dignidade Humana
+
+> **REGISTRO DE ATUALIZAÇÃO DE VERSÃO (V7.0.0)**  
+> **Linhagem Matriz:** Concept DOI `10.5281/zenodo.19017496`  
+> **Registro Específico do Estudo (OSF):** DOI `10.17605/OSF.IO/Q387Z`
+
+---
+
+### Escopo Teórico-Institucional — Versão V7.0.0
+
+Esta versão formaliza no ecossistema de custódia científica a fração pública do artigo aprovado e **laureado com Menção Honrosa (Top 3)** no **3º Congresso Goiano de Segurança Pública e Direitos Humanos**, promovido pela **Escola Superior da Polícia Civil do Estado de Goiás (ESPC-GO)** em novembro de 2026.
+
+* **Título:** *Dignidade Humana Omnicompreensiva: Reversão Ontológica da Totipotência e Superação do Androcentrismo Estrutural*
+* **Autor:** Vicente de Paulo Silva e Oliveira (Delegado de Polícia Civil / Mestrando UFCAT)
+* **Instituição:** Universidade Federal de Catalão (UFCAT) / Polícia Civil do Estado de Goiás (PCGO)
+* **Premiação:** Menção Honrosa (Qualificado entre os 3 Melhores Trabalhos do Congresso) — Eixo Temático 9: Programa Laço Seguro
+
+---
+
+### Status de Sigilo e Preservação de Anterioridade
+
+O acervo documental integral, os demonstrativos teóricos densos e as matrizes conceituais estendidas permanecem mantidos sob **Embargo e Acesso Restrito** no Open Science Framework (OSF) para preservação do sigilo de pesquisa continuada, imunidade intelectual e cumprimento dos protocolos éticos.
+
+* **Acervo Mestre sob Embargo (OSF):** `https://osf.io/g7tnc`
+* **Registro de Transparência Específico (OSF):** `https://doi.org/10.17605/OSF.IO/Q387Z`
+* **Indexação Canônica da Linhagem (Zenodo Concept DOI):** `10.5281/zenodo.19017496`
+
+*Direitos Autorais e de Propriedade Intelectual Reservados (Licença CC BY-NC-ND 4.0).*
+
 # Aviso de Atualização de Versão (V6.0.0)
 
 Esta publicação representa a versão V6.0.0 da linha de pesquisa originária, vinculada ao Concept DOI: 10.5281/zenodo.19017496.
