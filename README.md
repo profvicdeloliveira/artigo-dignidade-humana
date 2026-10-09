@@ -25,7 +25,7 @@ O acervo documental integral, os demonstrativos teóricos densos e as matrizes c
 * **Registro de Transparência Específico (OSF):** `https://doi.org/10.17605/OSF.IO/Q387Z`
 * **Indexação Canônica da Linhagem (Zenodo Concept DOI):** `10.5281/zenodo.19017496`
 
-*Direitos Autorais e de Propriedade Intelectual Reservados (Licença CC BY-NC-ND 4.0).*
+*Todos os Direitos Autorais e de Propriedade Intelectual Reservados.*
 
 # Aviso de Atualização de Versão (V6.0.0)
 
