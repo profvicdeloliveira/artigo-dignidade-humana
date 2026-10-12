@@ -1,4 +1,4 @@
-# Caderno de Custódia Científica — Linha de Pesquisa em Neoconstitucinalismo multimoodal e transcultural, Bioconstitucionalismo e Dignidade Humana
+# Caderno de Custódia Científica — Linha de Pesquisa em Neoconstitucinalismo multimodal e transcultural, Bioconstitucionalismo e Dignidade Humana
 
 > **REGISTRO DE ATUALIZAÇÃO DE VERSÃO (V8.0.0)**  
 > **Linhagem Matriz (Concept DOI Zenodo):** `10.5281/zenodo.19017496`  
