@@ -1,5 +1,28 @@
 # Caderno de Custódia Científica — Linha de Pesquisa em Bioconstitucionalismo e Dignidade Humana
 
+> **REGISTRO DE ATUALIZAÇÃO DE VERSÃO (V8.0.0)**  
+> **Linhagem Matriz (Concept DOI Zenodo):** `10.5281/zenodo.19017496`  
+> **Registro de Transparência Específico (OSF):** DOI `10.17605/OSF.IO/G5Z8F`  
+> **Acervo Mestre sob Embargo (OSF):** `https://osf.io/g7tnc`
+
+---
+
+### Escopo Teórico-Institucional — Versão V8.0.0 (Eixo 1)
+
+Esta versão formaliza no ecossistema de custódia científica a fração pública do artigo chancelado e **laureado com Menção Honrosa (qualificado entre os 3 melhores trabalhos científicos)** no **3º Congresso Goiano de Segurança Pública e Direitos Humanos**, promovido pela **Escola Superior da Polícia Civil do Estado de Goiás (ESPC-GO)** em setembro de 2026.
+
+* **Título da Obra:** *Arqueologia da Autoridade e Simbiose Axiológica: A Segurança Pública como Fiadora da Dignidade e Cláusula de Salvaguarda nos Artigos 28 e 29 da DUDH*
+* **Autoria:** Vicente de Paulo Silva e Oliveira (Delegado de Polícia Civil / Mestrando UFCAT)
+* **Chancela Institucional:** Escola Superior da Polícia Civil do Estado de Goiás (ESPC-GO) / Universidade Federal de Catalão (UFCAT)
+* **Premiação:** Menção Honrosa (Top 3 da Produção Científica do Congresso) — Eixo Temático 1: Fundamentos em Segurança Pública
+* **Tipo de Recurso:** Conference Paper (Português)
+
+*Direitos Autorais e de Propriedade Intelectual Reservados (Licença CC BY-NC-ND 4.0).*
+
+---
+
+# Caderno de Custódia Científica — Linha de Pesquisa em Bioconstitucionalismo e Dignidade Humana
+
 > **REGISTRO DE ATUALIZAÇÃO DE VERSÃO (V7.0.0)**  
 > **Linhagem Matriz:** Concept DOI `10.5281/zenodo.19017496`  
 > **Registro Específico do Estudo (OSF):** DOI `10.17605/OSF.IO/Q387Z`
