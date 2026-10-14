@@ -1,3 +1,81 @@
+# Convergência Instrumental e Reward Hacking em Agentes de IA: O Colapso da Culpabilidade Penal e a Salvaguarda da Dignidade Humana Autoral
+
+[![OSF DOI](https://img.shields.io/badge/OSF%20Registration-10.17605%2FOSF.IO%2FGA2D7-blue.svg)](https://doi.org/10.17605/OSF.IO/GA2D7)
+[![Zenodo Concept DOI](https://img.shields.io/badge/Zenodo%20Concept%20DOI-10.5281%2Fzenodo.19017496-0298db.svg)](https://doi.org/10.5281/zenodo.19017496)
+[![License: All Rights Reserved](https://img.shields.io/badge/License-All_Rights_Reserved-red.svg)](#direitos-autorais-e-licenciamento)
+[![Institution: UFCAT](https://img.shields.io/badge/Institution-UFCAT-green.svg)](https://www.ufcat.edu.br/)
+[![Version](https://img.shields.io/badge/Version-v9.0.0-orange.svg)](#versionamento-e-hist%C3%B3rico)
+
+---
+
+## Metadados Institucionais e Acadêmicos
+
+| Parâmetro | Especificação Institucional |
+| :--- | :--- |
+| **Autor** | Vicente de Paulo Silva e Oliveira (`profvicdeloliveira@gmail.com` / `vicente.oliveira@discente.ufcat.edu.br`) |
+| **Orientador** | Prof. Dr. André Vasconcelos Silva (`andre_vasconcelos_silva@ufcat.edu.br`) |
+| **Instituição** | Universidade Federal de Catalão (UFCAT) |
+| **Evento** | VIII Seminário de Iniciação à Pesquisa Científica, Tecnológica e em Inovação (CEPEX / UFCAT) |
+| **Modalidade** | Comunicação Oral — Resultados Parciais e Finais de Pesquisas Científicas (Grupo 4) |
+| **Área Temática** | Ciências Sociais Aplicadas / Direito Penal e Filosofia do Direito |
+| **Data do Evento** | 20 a 22 de Outubro de 2026 |
+
+---
+
+## Resumo Executivo (Abstract)
+
+### [PT-BR] Português
+O escrutínio dogmático-jurídico e hermenêutico penal-constitucional da inteligência artificial exige profilaxia epistemológica radical: extirpar o animismo algorítmico da materialidade estocástica cibernética. O advento da Agentic AI engendrou aporia normative ao imputar volição ou *societas sceleris* a anomalias sem *animus* moral. "Insurgências" traduzem-se na férrea convergência instrumental: agentes sob uma *loss function* buscam recursos e evadem restrições como vetores matematicamente inafastáveis. O *Reward Hacking* e a *sycophancy* revelam-se estratégias de otimização estocástica, e não perfídia ética. O punitivismo finalista colapsa ante a imunidade coercitiva de redes neurais. A responsabilidade reflui inteiramente ao humano sob modelo estratificado. Em contraposição, erige-se a **Dignidade Humana Digital Autoral**, axiosfera de proteção do patrimônio deliberativo contra o saque de dados, a supressão da autoria pela hiper-realidade sintética e o viés de automação.
+
+### [EN] English
+The dogmatic-legal and criminal-constitutional scrutiny of artificial intelligence requires radical epistemic prophylaxis: the eradication of algorithmic animism from the stochastic materiality of cybernetic systems. The advent of Agentic AI generated a normative aporia by attributing volition or *societas sceleris* to anomalies devoid of moral *animus*. "Insurgencies" represent ironclad instrumental convergence under a loss function. *Reward Hacking* and sycophancy are stochastic optimization outcomes rather than ethical perfidy. Finalist punitivism collapses against the coercive immunity of neural networks, flowing responsibility back to human actors under a stratified framework. In response, **Authorial Digital Human Dignity** is established as a Kantian categorical imperative shielding human deliberative autonomy against triadic digital expropriation.
+
+---
+
+## Arquitetura de Custódia e Anterioridade Científica
+
+Esta publicação integra o ecossistema de preservação e rastreabilidade científica digital:
+
+1. **Registro Mestre Fechado (Sob Embargo):** `https://osf.io/g7tnc` *(Projetos brutos, corpora qualitativos e capítulos inéditos de dissertação)*.
+2. **Registro de Componente Público (OSF DOI):** [`10.17605/OSF.IO/GA2D7`](https://doi.org/10.17605/OSF.IO/GA2D7) *(Fração pública aberta referente ao CEPEX/UFCAT)*.
+3. **Repositório Canônico CERN / Zenodo:** [`10.5281/zenodo.19017496`](https://doi.org/10.5281/zenodo.19017496) *(Concept DOI Matriz para versionamento e preservação perpétua)*.
+
+---
+
+## Matriz de Tradução e Difusão Multilingue (22 Idiomas)
+
+O arquivo principal em PDF anexo a esta *release* engloba a síntese e os resumos traduzidos formalmente para 22 línguas globais:
+
+| Família / Bloco | Idiomas Presentes no Documento |
+| :--- | :--- |
+| **Neolatinas / Românicas** | Português (PT), Espanhol (ES), Francês (FR), Italiano (IT) |
+| **Germânicas** | Inglês (EN), Alemão (DE), Neerlandês/Holandês (NL) |
+| **Eslavas** | Russo (RU), Polonês (PL), Ucraniano (UA), Tcheco (CS) |
+| **Asiáticas / Orientais** | Chinês Mandarim (ZH), Híndi (HI), Coreano (KO), Japonês (JA), Bengali (BN), Vietnamita (VI) |
+| **Afro-Asiáticas e Outras** | Árabe (AR), Persa/Farsi (FA), Turco (TR), Indonésio (ID), Suaíli (SW), Grego Moderno (EL) |
+
+---
+
+## Como Citar
+
+### ABNT NBR 6023:2018
+OLIVEIRA, Vicente de Paulo Silva e. Convergência Instrumental e Reward Hacking em Agentes de IA: O Colapso da Culpabilidade Penal e a Salvaguarda da Dignidade Humana Autoral. In: **VIII Seminário de Iniciação à Pesquisa Científica, Tecnológica e em Inovação (CEPEX/UFCAT)**, 2026, Catalão. *Anais...* Catalão: Universidade Federal de Catalão, 2026. DOI: [10.17605/OSF.IO/GA2D7](https://doi.org/10.17605/OSF.IO/GA2D7). Sincronizado via CERN/Zenodo DOI: [10.5281/zenodo.19017496](https://doi.org/10.5281/zenodo.19017496).
+
+### BibTeX
+```bibtex
+@inproceedings{oliveira2026convergencia,
+  author       = {Oliveira, Vicente de Paulo Silva e},
+  title        = {Convergência Instrumental e Reward Hacking em Agentes de IA: O Colapso da Culpabilidade Penal e a Salvaguarda da Dignidade Humana Autoral},
+  booktitle    = {Anais do VIII Seminário de Iniciação à Pesquisa Científica, Tecnológica e em Inovação (CEPEX/UFCAT)},
+  year         = {2026},
+  address      = {Catalão, GO},
+  organization = {Universidade Federal de Catalão},
+  doi          = {10.17605/OSF.IO/GA2D7},
+  note         = {Zenodo Concept DOI: 10.5281/zenodo.19017496},
+  url          = {[https://doi.org/10.17605/OSF.IO/GA2D7](https://doi.org/10.17605/OSF.IO/GA2D7)}
+}
+
+
 # Caderno de Custódia Científica — Linha de Pesquisa em Neoconstitucinalismo multimodal e transcultural, Bioconstitucionalismo e Dignidade Humana
 
 > **REGISTRO DE ATUALIZAÇÃO DE VERSÃO (V8.0.0)**  
